@@ -2,7 +2,7 @@
 Apply different Neural Network architectures in Pytorch. 
 
 
-1. **Fully Connected Neural Network**. Task: on a cybersecurity dataset, classify if each attack is benign or malicious.
+1. [**Fully Connected Neural Network**](https://github.com/spirosdim/Pytorch-mini-Projects/blob/master/1.DNN_Pytorch.ipynb). Task: on a cybersecurity dataset, classify if each attack is benign or malicious.
 
 
 
