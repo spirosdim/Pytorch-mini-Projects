@@ -4,7 +4,7 @@ Apply different Neural Network architectures in Pytorch.
 
 1. [**Fully Connected Neural Network**](https://github.com/spirosdim/Pytorch-mini-Projects/blob/master/1.DNN_Pytorch.ipynb). Task: on a cybersecurity dataset, classify if each attack is benign or malicious.
 
-2. [**Convolutional Neural Network**](https://github.com/spirosdim/Pytorch-mini-Projects/blob/master/2.%20CNN_mini_Project.ipynb) Task: Classify 10 classes of imagies (taken from Imagenet).
+2. [**Convolutional Neural Network**](https://github.com/spirosdim/Pytorch-mini-Projects/blob/master/2.%20CNN_mini_Project.ipynb) Task: Classify 10 classes of images (taken from Imagenet).
 keywords: Pytorch, CNN, cyclic learning rate, one cycle learning rate, SGD, Adam, transfer learning, ResNet34 
 
 
