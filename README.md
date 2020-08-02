@@ -5,9 +5,13 @@ Apply different Neural Network architectures in Pytorch. The purpose of these no
 1. [**Fully Connected Neural Network**](https://github.com/spirosdim/Pytorch-mini-Projects/blob/master/1.DNN_Pytorch.ipynb). Task: on a cybersecurity dataset, classify if each attack is benign or malicious.
 
 2. [**Convolutional Neural Network**](https://github.com/spirosdim/Pytorch-mini-Projects/blob/master/2.%20CNN_mini_Project.ipynb) Task: Classify 10 classes of images (taken from Imagenet).
-keywords: Pytorch, CNN, cyclic learning rate, one cycle learning rate, SGD, Adam, transfer learning, ResNet34 
+**keywords:** Pytorch, CNN, cyclic learning rate, one cycle learning rate, SGD, Adam, transfer learning, ResNet34 
 
 3. [**Recurrent Neural Network**](https://github.com/spirosdim/Pytorch-mini-Projects/blob/master/3.%20RNN_mini_Project.ipynb) Task: Classify 6 classes of text based on the emotion of the text ('surprise', 'joy', 'sadness', 'anger', 'love', 'fear').
+**keywords:** Pytorch, SpaCy, RNN, bidirectional LSTM, GloVe, packed_padded_sequence, classification, class_weight
+
+4. [**Variational Autoencoder**](https://github.com/spirosdim/Pytorch-mini-Projects/blob/master/4.%20VAE_mini_Project.ipynb) Task: Reconstruct the SMILES strings of molecules and then try to generate new SMILES.
+**keywords:** Pytorch, rdkit, SMILES, Variational Autoencoder, 1D CNN, GRU
 
 ## References:
 
